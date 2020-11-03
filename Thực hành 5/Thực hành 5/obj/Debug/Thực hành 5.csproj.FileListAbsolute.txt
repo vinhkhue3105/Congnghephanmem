@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\bin\Debug\Thực hành 5.exe.config
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\bin\Debug\Thực hành 5.exe
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\bin\Debug\Thực hành 5.pdb
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực hành 5.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực_hành_5.Form1.resources
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực_hành_5.Properties.Resources.resources
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực hành 5.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực hành 5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực hành 5.exe
+C:\Users\Dell\source\repos\Thực hành 5\Thực hành 5\obj\Debug\Thực hành 5.pdb
